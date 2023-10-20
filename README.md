@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **SOC Level 1 Path Via. TryHackMe**
 
-- 📝 I regularly write articles on [Cybersecurity](Cybersecurity)
-
 - 📫 How to reach me **https://www.linkedin.com/in/adriancalso/**
 
 - ⚡ Fun fact **The process of learning how a game works and breaking it is more fun than playing it.**
