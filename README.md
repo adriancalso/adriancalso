@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Calso</h1>
-<h3 align="center">A Cyber Security Professional and Tech Aficionado</h3>
+<h3 align="center">Cyber Security Professional and Tech Aficionado</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriancalso&label=Profile%20views&color=0e75b6&style=flat" alt="adriancalso" /> </p>
 
